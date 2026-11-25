@@ -49,7 +49,7 @@ Aplikace funguje i offline.
 
 Autor: František Sychra (© 2026, verze 1.4). Na vzniku se podíleli Martin Vondrák, paní Mamutová a ChatGPT.
 
-Vestavěná knihovna js-sha256 je pod **MIT licencí** (její text je součástí souboru `sha256.html`). Pro zbývající kód repozitáře zatím licence deklarovaná není – pokud ho plánujete sdílet, doporučuji přidat soubor `LICENSE`.
+Vestavěná knihovna js-sha256 i zbytek kódu je pod **MIT licencí** (její text je součástí souboru `sha256.html`)
 
 ---
 
@@ -109,4 +109,4 @@ README.md     – this description
 
 Author: František Sychra (© 2026, version 1.4). Contributed by Martin Vondrák, Ms Mamutová and ChatGPT.
 
-The embedded js-sha256 library is under the **MIT licence** (its text is included in `sha256.html`). No licence is declared for the rest of the code in this repository yet – if you plan to share it, add a `LICENSE` file.
+The embedded js-sha256 library and rest of code is under the **MIT licence** (its text is included in `sha256.html`). 
