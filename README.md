@@ -109,4 +109,4 @@ README.md     – this description
 
 Author: František Sychra (© 2026, version 1.4). Contributed by Martin Vondrák, Ms Mamutová and ChatGPT.
 
-The embedded js-sha256 library and rest of code is under the **MIT licence** (its text is included in `sha256.html`). 
+The embedded js-sha256 library and the rest of code is under the **MIT licence** (its text is included in `sha256.html`). 
